@@ -4,7 +4,7 @@
       <span class="el-dropdown-link">
         <el-avatar
           size="small"
-          src="https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png"
+          src="https://www.kzmqvq.com/img/bb.png"
         ></el-avatar>
         <span>{{ name }}</span>
       </span>
