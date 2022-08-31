@@ -6,7 +6,7 @@
           size="small"
           src="https://www.kzmqvq.com/img/bb.png"
         ></el-avatar>
-        <span>{{ name }}</span>
+        <span style="margin-left: 8px">{{ name }}</span>
       </span>
       <template #dropdown>
         <el-dropdown-menu>

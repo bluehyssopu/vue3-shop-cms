@@ -107,4 +107,8 @@ export default defineComponent({
 .content-row {
   margin-top: 20px;
 }
+
+.dashboard {
+  background-color: #f0f2f5;
+}
 </style>
