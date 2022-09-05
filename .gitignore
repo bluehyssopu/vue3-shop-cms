@@ -2,7 +2,6 @@
 node_modules
 treeList.txt
 /dist
-/build
 
 # local env files
 .env.local

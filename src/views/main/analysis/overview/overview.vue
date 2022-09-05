@@ -85,7 +85,7 @@
         :column="1"
         :table-datas="[
           { name: 'add 操作', description: 'git add ' },
-          { name: 'commit 操作', description: 'yarn commit ' },
+          { name: 'commit 操作', description: 'git commit ' },
           { name: 'pull 操作', description: 'git pull ' },
           { name: 'push 操作', description: 'git push ' }
         ]"
